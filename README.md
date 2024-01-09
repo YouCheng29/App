@@ -1,1 +1,1 @@
-# churchApp
+# App
